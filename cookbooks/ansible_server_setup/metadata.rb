@@ -3,7 +3,7 @@ maintainer 'Punit Grewal'
 maintainer_email 'punit144@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures ansible_server_setup'
-version '0.1.1'
+version '0.1.5'
 chef_version '>= 16.0'
 
 # The `issues_url` points to the location where issues for this cookbook are
