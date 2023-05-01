@@ -1,0 +1,1 @@
+default['docker_packages'] = ['docker-ce', 'docker-ce-cli', 'containerd.io']
